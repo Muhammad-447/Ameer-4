@@ -1,0 +1,40 @@
+/*Header*/
+.flex-container{
+    display: flex;
+    height: 80px;
+    width: auto;
+
+}
+/*end*/
+
+/*Body background*/
+body{
+    background-color: aqua;
+}
+/*end*/
+
+/*Font-Family*/
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+/*end*/
+
+/*Border Styling*/
+fieldset{
+    border-style: dashed;
+    border-color: black;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+/*end*/
+
+#nav{
+    padding-left: 180px;
+}
